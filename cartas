@@ -1,0 +1,5 @@
+string firstFriend= "Vicky";
+string secondFriend = "Ingrid";
+Console.WriteLine($"Hola, mis amigos son {firstFriend} e {secondFriend}");
+Console.WriteLine($"La {firstFriend} tiene {firstFriend.Length} cartas");
+Console.WriteLine($"La {secondFriend} tiene {secondFriend.Length} cartas.");
