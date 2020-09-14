@@ -1,0 +1,7 @@
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\bin\Debug\Exception.exe.config
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\bin\Debug\Exception.exe
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\bin\Debug\Exception.pdb
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\obj\Debug\Exception.csprojAssemblyReference.cache
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\obj\Debug\Exception.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\obj\Debug\Exception.exe
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\Exception\Exception\obj\Debug\Exception.pdb

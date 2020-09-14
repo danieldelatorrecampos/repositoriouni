@@ -1,0 +1,6 @@
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\bin\Debug\github.exe.config
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\bin\Debug\github.exe
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\bin\Debug\github.pdb
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\obj\Debug\github.csproj.CoreCompileInputs.cache
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\obj\Debug\github.exe
+C:\Users\ANGEL EMILIANO\source\repos\repositoriouni\github\github\obj\Debug\github.pdb
